@@ -1,4 +1,4 @@
-# raspberrypi
+# raspberrypi scripts
 Scripts and tooling that support the installation and configuration of my RaspberryPI systems
 
 The scripts provided in this repository are writen for my personal use only. They can however be downloaded and shared. Please let me know if you find bugs or error's. I'll will happely try to fix them.
